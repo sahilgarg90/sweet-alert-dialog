@@ -37,7 +37,7 @@ public class SampleActivity extends Activity implements View.OnClickListener {
                 break;
             case R.id.under_text_test:
                 new SweetAlertDialog(this)
-                        .setContentText("It's pretty, isn't it?")
+                        .setContentText("We are so excited to have you in our group! We believe that you can use your skills and talent in making our company reach new heights. Welcome aboard! Crownstack Team............")
                         .show();
                 break;
             case R.id.error_text_test:
